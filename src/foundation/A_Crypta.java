@@ -3,7 +3,7 @@ package foundation;
 import util.CryptoTools;
 import java.math.*;
 public class A_Crypta {
-	
+	 
 	public static void main(String[] args){
 		try{
 			byte[] cipherText = CryptoTools.fileToBytes("data/MSG3.ct");
