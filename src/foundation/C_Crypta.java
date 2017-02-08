@@ -1,5 +1,5 @@
 package foundation;
-
+ 
 import util.CryptoTools;
 /*
  * In this class, the Frequency of every letter in the C.T is divided by the length of the Cipher text
