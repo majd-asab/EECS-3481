@@ -5,7 +5,7 @@ import java.math.*;
 public class A_Exhaustive {
 	
 	
-	
+	 
 	/*Decryption a^-1(C-b) mod 26*/
 	public static byte[] decrypt(int alpha,int beta, byte[] arr){
 		byte[] decryptedArr = new byte[arr.length];
