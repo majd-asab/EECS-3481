@@ -3,7 +3,7 @@ package foundation;
 import java.util.ArrayList;
 
 import util.CryptoTools;
-
+ 
 public class V_Crypta {
 	
 	public static void findKey(char[] arr){
