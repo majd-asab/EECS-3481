@@ -2,7 +2,7 @@ package foundation;
 
 import util.CryptoTools;
 
-public class C_Encrypt {
+public class C_Encrypt { 
 	
 	/* Encryption formula E = (x + n) mod 26 */
 	public static byte[] encrypt(int key, byte[] arr){
