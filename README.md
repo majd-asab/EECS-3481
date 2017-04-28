@@ -1,16 +1,16 @@
 # Applied cryptogophy course
 
-The algorithem files for different ciphers the are classes I developed as we progressed through the applied cryptology course.
+The algorithem files for different ciphers I developed and worked on as we progressed through the applied cryptology course.
 
 ## Installation
 
 * Install java.
-* You might as well install eclipse IDE.
+* Install eclipse IDE.
 
 ## Usage
 
-I've tried to stick to functions and parameters passing style through the course. 
-In most cases you just have to make you Cipher text file, and assign the path of the file to the Crypto.FileToBytes method which will read the text files into bytes and the the classes should take care of the rest.
+I've tried to stick to methods and parameters passing style through the course. 
+In most cases(symmetric ciphers) you just have to make your cipher text file, and assign the path of the file to the Crypto.FileToBytes method which will read the text files into bytes and the class methods should take care of the rest.
 
 ## Contributing
 
@@ -25,6 +25,6 @@ In most cases you just have to make you Cipher text file, and assign the path of
 The projects start from symmetric monoalphabetic ciphers all the way to modern day RSA public and private ciphers
 
 ## Credits
-H.R. 
+Special thanks to our professor H.R. 
 
 
