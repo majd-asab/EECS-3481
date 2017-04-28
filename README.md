@@ -25,6 +25,6 @@ In most cases(symmetric ciphers) you just have to make your cipher text file, an
 The projects start from symmetric monoalphabetic ciphers all the way to modern day RSA public and private ciphers
 
 ## Credits
-Special thanks to our professor H.R. 
+Special thanks to our professor H.R.
 
 
